@@ -22,7 +22,8 @@ export default class IndexPage extends React.Component {
       <div>
         <Layout>
           <p>
-            <b> General directions </b>{" "}
+            <b> Hope Lancaster </b> <br /> <br />
+            <b> General directions </b>
           </p>{" "}
           <p>
             Thank you for being willing to participate in our study about how to
@@ -55,7 +56,9 @@ export default class IndexPage extends React.Component {
             <p>
               You should complete these tasks in a quiet location, without many
               distractions, and use headphones.Your headphones can be over the
-              ear or ear buds, which ever you are more comfortable with.{" "}
+              ear or ear buds, which ever you are more comfortable with. Tests
+              that record your voice may request permission to access your
+              microphone multiple time.{" "}
             </p>{" "}
           </p>{" "}
           <form>
