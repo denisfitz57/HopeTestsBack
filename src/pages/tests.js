@@ -7,57 +7,15 @@ export default function Tests(props) {
     <Layout>
       <Test
         thelink={
-          "https://uxidcl8qch.cognition.run/?subjectID=" + props.subjectID
+          "https://3zt5mymsjf.cognition.run/?subjectID=" + props.subjectID
         }
-        thename={"Headphone adjustment"}
+        thename={"Volume Adjustment, Headphone Check and Mic Check"}
       />{" "}
       <Test
         thelink={
-          "https://kcogkmiclf.cognition.run/?subjectID=" + props.subjectID
-        }
-        thename={"Microphone check"}
-      />{" "}
-      <Test
-        thelink={
-          "https://4t89jaxmeu.cognition.run/?subjectID=" + props.subjectID
-        }
-        thename={"Syllable repetition"}
-      />{" "}
-      <Test
-        thelink={
-          "https://lbluxphiwi.cognition.run/?subjectID=" + props.subjectID
-        }
-        thename={"Real word repetition"}
-      />{" "}
-      <Test
-        thelink={
-          "https://yeve4ctho4.cognition.run/?subjectID=" + props.subjectID
-        }
-        thename={"Word definition"}
-      />{" "}
-      <Test
-        thelink={
-          "https://abosmecrim.cognition.run/?subjectID=" + props.subjectID
-        }
-        thename={"Nonword repetition"}
-      />{" "}
-      <Test
-        thelink={
-          "https://xowkbi9cvw.cognition.run/?subjectID=" + props.subjectID
-        }
-        thename={"Spelling"}
-      />{" "}
-      <Test
-        thelink={
-          "https://ff6lv1cmfk.cognition.run/?subjectID=" + props.subjectID
+          "https://au4pk88wid.cognition.run/?subjectID=" + props.subjectID
         }
         thename={"Nonword reading"}
-      />{" "}
-      <Test
-        thelink={
-          "https://sxvmm3w4w6.cognition.run/?subjectID=" + props.subjectID
-        }
-        thename={"Token task"}
       />{" "}
     </Layout>
   )
